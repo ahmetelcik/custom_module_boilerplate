@@ -1,0 +1,12 @@
+:root {
+    --anaRenk: #f08300;
+}
+
+html {
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+body {
+    background-color: #fff;
+}
